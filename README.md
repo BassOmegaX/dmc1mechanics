@@ -7,6 +7,24 @@ Dante cannot die in one hit if he has 300 HP or more. When he has 300 or more HP
 # Devil Trigger Gauge
 Each rune of DT is worth 120 points. When DT is activate, the value is converted to 200 points per rune and drains at a rate of 1 point per frame.
 
+# Difficulty Changes in regards to Damage
+
+| Regular Enemies |
+| Difficulty Mode      | Damage you do | Damage taken |
+| --- | --- | --- |
+| Normal      | 100% |    100%   |
+| Hard   | 100%   |   100%  |
+|Dante Must Die! | 100% | 100% |
+
+| Bosses |
+| Difficulty Mode      | Damage you do | Damage taken |
+| --- | --- | --- |
+| Normal      | 100% |    100%   |
+| Hard   |  33.3%, 100%*  |   200%  |
+|Dante Must Die! | 33.3% | 500% |
+
+* You do regular damage to bosses when you Devil Trigger and use a melee attack. DT'd firearm attacks and all nonDT attacks do 1/3 damage.
+
 # TO DO
 - Devil Arm list and attacks
 - Bestiary
