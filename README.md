@@ -45,6 +45,8 @@ Each rune of DT is worth 120 points. When DT is activated, the value is converte
 * You do regular damage to bosses when you Devil Trigger and use a melee attack. DT'd firearm attacks and all nonDT attacks do 1/3 damage.
 
 # TO DO
+- Mission End Ranking
+- Stylish Meter
 - Devil Arm list and attacks
 - Bestiary
     - Damage Numbers
