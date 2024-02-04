@@ -32,7 +32,7 @@ Each rune of DT is worth 120 points. When DT is activated, the value is converte
 | Hard   | 1x  |   2x  |
 |Dante Must Die!* | 1x | 2x |
 
-*Enemies activating Devil Trigger triples their damage to Dante. Marionettes and Fetishes take 1/2 damage. Sin Scissors, Sin Scythes, Sargassos, Plasmas, and Green Beelzebubs take 1/3 damage. Blue Beelzebubs takes 1/6 damage. See Bestiary.
+*Enemies activating Devil Trigger triples their damage to Dante. For defensive values after Devil Triggering, Marionettes and Fetishes take 1/2 damage. Sin Scissors, Sin Scythes, Sargassos, Plasmas, and Green Beelzebubs take 1/3 damage. Blue Beelzebubs takes 1/6 damage. See Bestiary.
 
 ## Bosses 
 
