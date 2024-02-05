@@ -57,6 +57,7 @@ Each attack to an enemy will earn points in the visible Stylish meter. For High 
 Each attack has a designated number of red orbs it adds to the total. This is multiplied by the current Style meter multiplier to add to the total number of red orbs. This accumulated amount will never go away, even if you lose the Style meter. 
 
 The only bosses that gain additional red orbs from the Stylish meter upon defeat are Nightmare and Shadow Nelo Angelo.
+* Check Fountain Phantom
 
 |Stylish Rank| Points Needed | Red Orb Multiplier|
 |---|---|---|
