@@ -52,9 +52,11 @@ Each rune of DT is worth 120 points. When DT is activated, the value is converte
 # Stylish Meter
 Forget everything about the Stylish meter in DMC3 and onwards, the Stylish meter in DMC1 is basically a combo meter.
 
-Each attack to an enemy will earn points in the visible Stylish meter. When an attack connects, you have 1 second(60 frames) to maintain the Style meter by hitting an enemy with another attack. Charging Roundtrip, charging Ifrit attacks, or taunting will pause the timer. 
+Each attack to an enemy will earn points in the visible Stylish meter. For High Time, Magma Drive, or Meteor, the next attack following these attacks will also add a bonus value. When an attack connects, you have 1 second(60 frames) to maintain the Style meter by hitting an enemy with another attack. Charging Roundtrip, charging Ifrit attacks, or taunting will pause the timer. 
 
 Each attack has a designated number of red orbs it adds to the total. This is multiplied by the current Style meter multiplier to add to the total number of red orbs. This accumulated amount will never go away, even if you lose the Style meter. 
+
+Only Nightmare and Shadow bosses during Nightmare fights give additional Stylish meter red orbs.
 
 |Stylish Rank| Points Needed | Red Orb Multiplier|
 |---|---|---|
@@ -63,6 +65,8 @@ Each attack has a designated number of red orbs it adds to the total. This is mu
 |Bravo!| 48-63 | 3x |
 |Absolute!| 64-127 | 5x |
 |Stylish!|128 or higher | 10x |
+
+## Values List
 
 
 # TO DO
