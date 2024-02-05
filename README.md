@@ -1,3 +1,7 @@
+<title>
+  Devil May Cry 1 Mechanics
+</title>
+
 # Health
 Dante starts with 1000 HP. Each whole blue orb adds 100 HP. The maximum HP attainable is 3000.
 
@@ -43,11 +47,28 @@ Each rune of DT is worth 120 points. When DT is activated, the value is converte
 |Dante Must Die! | 1/3x | 5x |
 
 * You do regular damage to bosses when you Devil Trigger and use a melee attack. DT'd firearm attacks and all nonDT attacks do 1/3 damage.
-  
+
+
+# Stylish Meter
+Forget everything about the Stylish meter in DMC3 and onwards, the Stylish meter in DMC1 is basically a combo meter.
+
+Each attack to an enemy will earn points in the visible Stylish meter. When an attack connects, you have 1 second(60 frames) to maintain the Style meter by hitting an enemy with another attack. Charging Roundtrip, charging Ifrit attacks, or taunting will pause the timer. 
+
+Each attack has a designated number of red orbs it adds to the total. This is multiplied by the current Style meter multiplier to add to the total number of red orbs. This accumulated amount will never go away, even if you lose the Style meter. 
+
+|Stylish Rank| Points Needed | Red Orb Multiplier|
+|---|---|---|
+|Dull| 11 or lower | 1x | 
+|Cool!| 12-47 | 2x |
+|Bravo!| 48-63 | 3x |
+|Absolute!| 64-127 | 5x |
+|Stylish!|128 or higher | 10x |
+
+
 # TO DO
 - Damage as in PS2 NTSC-U and PAL
 - Mission End Ranking
-- Stylish Meter
+- Stylish Meter, list all attacks and values
 - Devil Arm list and attacks
 - Bestiary
     - Damage Numbers
