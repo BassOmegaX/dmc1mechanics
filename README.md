@@ -78,7 +78,6 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
     - Damage Numbers
 - Bosses
     - Boss Mechanics
-    - Phantom's burnout
     - Nelo's hit counter
     - Griffins knockdown counter
     - Griffin 3's HP and defense mechanics
