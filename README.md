@@ -9,7 +9,7 @@ Dante starts with 1000 HP. Each whole blue orb adds 100 HP. The maximum HP attai
 Dante cannot die in one hit if he has more than 300 HP. When he has more than 300 HP, and he takes an attack that does more damage than his remaining HP, he will not die, and his health will be set to 0. When his health is 300 HP or less though, a hit that takes him under 0 HP will kill him. A visual indication of this is when the HP bar turns red. Note that this is not the same as when the HP bar border turns red, which starts at under 300 HP.
 
 # Devil Trigger Gauge
-Each rune of DT is worth 120 points. When DT is activated, the value is converted to 200 points per rune and drains at a rate of 1 point per frame.
+Each rune of DT is worth 120 points. When DT is activated, the value is converted to 200 points per rune and drains at a rate of 1 point per frame. During flight mode with Alastor, DT drains at 2 points per frame. During using Kick-13, it drains 5 points per frame, and during Inferno, it drains 9 points per frame.
 
 ## Stat Changes
 
