@@ -88,9 +88,11 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 * Bloody Maris have triple HP from these values.
 
 ### Devil Trigger Bonus
-* Damage triples
+* Damage to Dante triples
 * HP is refilled to 3000(9000 for Bloody Maris)
+* Damage taken is halved
 * Super armor except for Dante's melee attacks in Devil Trigger
+* Can no longer block handgun shots
 * Devil Trigger gauge recovery is doubled
 
 
