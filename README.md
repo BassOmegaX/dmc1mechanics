@@ -69,6 +69,31 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 ## Values List
 
 
+# Bestiary
+
+## Marionettes and Bloody Mari
+
+### HP
+|HP||Percentage|
+|---|---|
+|800|1/16|
+|1000|7/16|
+|1100|1/16|
+|1200|3/16|
+|1250|1/16|
+|1400|1/16|
+|1500|2/16|
+
+* Indigo Marionettes have double HP from these values.
+* Bloody Maris have triple HP from these values.
+
+### Devil Trigger Bonus
+* Damage triples
+* HP is refilled to 3000(9000 for Bloody Maris)
+* Super armor except for Dante's melee attacks in Devil Trigger
+* Devil Trigger gauge recovery is doubled
+
+
 # TO DO
 - Damage as in PS2 NTSC-U and PAL
 - Mission End Ranking
