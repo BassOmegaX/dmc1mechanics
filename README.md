@@ -71,6 +71,25 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 ## Values List
 
 
+# Mission End Ranking
+
+# Firearms
+
+## Ebony and Ivory
+## Shotgun
+## Grenadegun
+## Needlegun
+## Nightmare-beta
+
+# Devil Arms List
+
+## Force Edge
+Does 2/3 damage of Alastor
+
+## Alastor
+## Ifrit
+## Sparda
+
 # Bestiary
 
 ## Marionettes and Bloody Mari
@@ -274,6 +293,8 @@ Easy Mode
 2000, Third Fight
 
 # TO DO
+- Table of Contents
+- Formatting
 - Damage as in PS2 NTSC-U and PAL
 - Mission End Ranking
 - Stylish Meter, list all attacks and values
