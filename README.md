@@ -74,7 +74,7 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 ## Marionettes and Bloody Mari
 
 ### HP
-|HP||Percentage|
+|HP|Percentage|
 |---|---|
 |800|1/16|
 |1000|7/16|
