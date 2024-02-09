@@ -1,6 +1,7 @@
 <title>
   Devil May Cry 1 Mechanics
 </title>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # Health
 Dante starts with 1000 HP. Each whole blue orb adds 100 HP. The maximum HP attainable is 3000.
@@ -79,7 +80,10 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 ## Shotgun
 ## Grenadegun
 ## Needlegun
-## Nightmare-beta
+
+## Nightmare-$\beta$
+
+When the Nightmare-$\beta$ is equipped, Dante's punch attacks with his left arm are doubled. This does not stack with Devil Trigger, unless it is activated when the attack hits.
 
 # Devil Arms List
 
@@ -88,6 +92,11 @@ Does 2/3 damage of Alastor
 
 ## Alastor
 ## Ifrit
+### Charging
+Charged attacks(Punches, Kicks, Magma Drive) will gain 10% damage per frame of charge. If it automatically releases, a 400% multiplier is applied.
+
+For Meteor, it gains 1% of damage per frame of change. If it automatically releases, a 400% multipler is applied.
+
 ## Sparda
 
 # Bestiary
