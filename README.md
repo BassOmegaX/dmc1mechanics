@@ -95,6 +95,7 @@ Does 2/3 damage of Alastor
 ## Marionettes and Bloody Mari
 
 ### HP
+
 |HP|Percentage|
 |---:|---:|
 |800|1/16|
@@ -131,6 +132,7 @@ Does 2/3 damage of Alastor
 ## Sin Scissors
 
 ### HP
+
 |HP|Percentage|
 |---:|---:|
 |800|7/16|
@@ -139,6 +141,7 @@ Does 2/3 damage of Alastor
 |1400|2/16|
 
 #### Easy Mode HP
+
 |HP|Percentage|
 |---:|---:|
 |1600|3/16|
@@ -157,12 +160,14 @@ Does 2/3 damage of Alastor
 ## Sin Scythe
 
 ### HP
+
 |HP|Percentage|
 |---:|---:|
 |800|10/16|
 |1000|6/16|
 
 #### Easy Mode HP
+
 |HP|Percentage|
 |---:|---:|
 |1200|6/16|
@@ -220,6 +225,7 @@ Does 2/3 damage of Alastor
 540 (Easy Mode)
 
 ## Blade
+
 |HP|Percentage|
 |---:|---:|
 |1200|1/3|
@@ -227,6 +233,7 @@ Does 2/3 damage of Alastor
 |1500|1/3|
 
 Large Blade
+
 |HP|Percentage|
 |---:|---:|
 |3000|2/3|
@@ -253,6 +260,7 @@ Large Blade
 |5500|Mission 8|
 
 #### Easy Mode HP
+
 |HP|Encounter|
 |---:|---:|
 |3375|Mission 3|
