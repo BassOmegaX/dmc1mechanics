@@ -77,7 +77,7 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 
 ### HP
 |HP|Percentage|
-|---|---|
+|---:|---:|
 |800|1/16|
 |1000|7/16|
 |1100|1/16|
@@ -95,8 +95,183 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 * Damage taken is halved
 * Super armor except for Dante's melee attacks in Devil Trigger
 * Can no longer block handgun shots
-* Devil Trigger gauge recovery is doubled
+* Devil Trigger gauge recovery from attacking the enemy is doubled
+  
+## Fetish
 
+### HP
+2000
+
+### Devil Trigger Bonus
+* Damage to Dante triples
+* HP is refilled to 6000
+* Damage taken is halved
+* Super armor except for Dante's melee attacks in Devil Trigger
+* Devil Trigger gauge recovery from attacking the enemy becomes 1.5x
+
+## Sin Scissors
+
+### HP
+|HP|Percentage|
+|---:|---:|
+|800|7/16|
+|1000|5/16|
+|1200|2/16|
+|1400|2/16|
+
+#### Easy Mode HP
+|HP|Percentage|
+|---:|---:|
+|1600|3/16|
+|1800|4/16|
+|2000|3/16|
+|2200|2/16|
+|2400|2/16|
+|2600|1/16|
+|2800|1/16|
+
+### Devil Trigger Bonus
+* Damage to Dante triples
+* Damage taken becomes 1/3x
+* Increased attack frequency
+
+## Sin Scythe
+
+### HP
+|HP|Percentage|
+|---:|---:|
+|800|10/16|
+|1000|6/16|
+
+#### Easy Mode HP
+|HP|Percentage|
+|---:|---:|
+|1200|6/16|
+|1300|4/16|
+|1400|4/16|
+|1500|2/16|
+
+
+### Devil Trigger Bonus
+* Damage to Dante triples
+* Damage taken becomes 1/3x
+* Increased attack frequency
+* More likely to be a low position(?)
+
+## Death Scissors
+
+### HP
+5000
+
+### Devil Trigger Bonus
+* Damage to Dante triples
+
+## Death Scythe
+
+### HP
+3000
+
+## Sargasso
+
+### HP
+1000 (small)
+2000 (big)
+
+### Devil Trigger Bonus
+* Damage to Dante triples
+* Damage taken becomes 1/3x
+
+  
+## Shadow
+
+### HP
+3000 
+* 1500 First encounter on Normal
+
+### Devil Trigger Bonus
+* Damage to Dante triples
+* Automatically uses magical spike attack when Dante is close
+  
+  
+## Beelzebub
+
+## Kyklops
+### HP
+1080
+540 (Easy Mode)
+
+## Blade
+|HP|Percentage|
+|---:|---:|
+|1200|1/3|
+|1300|1/3|
+|1500|1/3|
+
+Large Blade
+|HP|Percentage|
+|---:|---:|
+|3000|2/3|
+|3300|1/3|
+
+## Plasma 
+1000
+
+## Frost
+3000
+
+## Nobody
+2400
+
+## Phantom
+
+### HP
+
+|HP|Encounter|
+|---:|---:|
+|4500|Mission 3|
+|2000|Mission 4, Mission 7|
+|2250|Fountain Room on Hard, DMD!, Nightmare's underworld|
+|5500|Mission 8|
+
+#### Easy Mode HP
+|HP|Encounter|
+|---:|---:|
+|3375|Mission 3|
+|1500|Mission 4, Mission 7|
+|2250|Fountain Room on Hard, DMD!, Nightmare's underworld|
+|4125|Mission 8|
+
+## Nelo Angelo
+1500
+2100
+2500 (2100 Easy Mode)
+1000 (Nightmare's Underworld)
+
+## Griffon
+8000
+4000
+10000
+4000 (Nightmare's Underworld)
+
+Easy Mode
+6000
+4000
+10000
+2000 (Nightmare's Underworld)
+
+## Nightmare 
+
+### HP
+7000
+2000(Final Core)
+
+## Devil Trigger Bonus
+* Damage to Dante becomes 2x
+
+## Mundus 
+10000, First Fight
+10000, Second Fight
+2000, Third Fight
 
 # TO DO
 - Damage as in PS2 NTSC-U and PAL
