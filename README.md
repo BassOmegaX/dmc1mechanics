@@ -5,6 +5,8 @@
 # Health
 Dante starts with 1000 HP. Each whole blue orb adds 100 HP. The maximum HP attainable is 3000.
 
+Dante and enemies do not die at 0 HP, they die at under 0 HP.
+
 ## Low HP
 Dante cannot die in one hit if he has more than 300 HP. When he has more than 300 HP, and he takes an attack that does more damage than his remaining HP, he will not die, and his health will be set to 0. When his health is 300 HP or less though, a hit that takes him under 0 HP will kill him. A visual indication of this is when the HP bar turns red. Note that this is not the same as when the HP bar border turns red, which starts at under 300 HP.
 
