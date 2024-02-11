@@ -115,7 +115,7 @@ When Griffon is hit by a Devil Arm attack, excluding Air Raid, Vortex, and Round
 
 ### Core
 
-Nightmare has 2 cores, a top core and a bottom core. The top core begins with 6000 and the bottom core begins with 8000. When these values are under 4000 or 5000 respectively, the respective core turns green. When it is under 1000, the respective core turns red. Each attack done to the core lowers the value by the base damage of the attack, not the actual damage value. Since charged Ifrit attacks have multipliers, they have the highest ratio of damage to Nightmare's HP to core breakage damage.
+Nightmare has 2 cores, a top core and a bottom core. The top core begins with 6000 and the bottom core begins with 8000. When these values are under 4000 or 5000 respectively, the respective core turns green. When it is under 1000, the respective core turns red. Nightmare's cores cannot turn red on the first fight. Each attack done to the core lowers the value by the base damage of the attack, not the actual damage value. Since charged Ifrit attacks have multipliers, they have the highest ratio of damage to Nightmare's HP to core breakage damage.
 
 When the cores change color, they also change Nightmare's attacks.
 
