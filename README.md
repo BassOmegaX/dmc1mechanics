@@ -95,7 +95,7 @@ Does 2/3 damage of Alastor
 ### Charging
 Charged attacks(Punches, Kicks, Magma Drive) will gain 10% damage per frame of charge. If it automatically releases, a 400% multiplier is applied.
 
-For Meteor, it gains 1% of damage per frame of change. If it automatically releases, a 400% multipler is applied.
+For Meteor, it gains 2% of damage per frame of charge. If it automatically releases, a 400% multipler is applied.
 
 ## Sparda
 
