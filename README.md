@@ -99,6 +99,56 @@ For Meteor, it gains 2% of damage per frame of charge. If it automatically relea
 
 ## Sparda
 
+# Some Enemy Mechanics
+
+## Nelo Angelo Hit Counter
+
+When Nelo Angelo gets hit, he has a counter that increases by 1 for each hit. When it exceeds a certain value(16 for Nelo 1 and Shadow Nelo, 8 for Nelo 2 and 3), Nelo Angelo can block in the middle of a combo. This counter resets to 0 when Nelo teleports or charges a meteor.
+
+## Griffon Knockdown
+
+When Griffon is hit by a Devil Arm attack, excluding Air Raid, Vortex, and Roundtrip, he has a counter that increases by 2 for each hit. When this value reaches 30 for Griffon 1 or 20 for Griffon 3, he is knocked down.
+
+* The counter also increases by 1 sometimes if he is hit in the air by a firearm. I believe that it has to hit his head hitbox for it to count.
+
+## Nightmare
+
+### Core
+
+Nightmare has 2 cores, a top core and a bottom core. The top core begins with 6000 and the bottom core begins with 8000. When these values are under 4000 or 5000 respectively, the respective core turns green. When it is under 1000, the respective core turns red. Each attack done to the core lowers the value by the base damage of the attack, not the actual damage value. Since charged Ifrit attacks have multipliers, they have the highest ratio of damage to Nightmare's HP to core breakage damage.
+
+When the cores change color, they also change Nightmare's attacks.
+
+Top Core
+
+|Values| Color | Effect|
+|---|---|---|
+|4000 or higher | Blue | Ice Beam attack lasts the shortest |
+|1000-3999| Green | Ice Beam attack lasts longer and Nightmare moves back and forth during this attack |
+|Under 1000| Red | HP Damage taken is 1/2x. Stylish meter gain is doubled. Ice Beam attack lasts the longest |
+
+Bottom Core
+
+|Values| Color | Effect|
+|---|---|---|
+|5000 or higher | Blue |  |
+|1000-4999 | Green | The projectile attack has better aim and damage Dante takes from this attack is lowered. |
+|Under 1000| Red | HP Damage taken is 1/2x. Stylish meter gain is doubled.  |
+
+Certain events will reset the core values. The events are:
+1. When Dante returns from Nightmare's underworld
+2. Nightmare fight begins
+3. Trish's cutscene in Nightmare 3
+
+|Core Location|Color|Reset Value|
+|---|---|---|
+|Top|Blue | 6000|
+|Top|Green|3900|
+|Bottom|Blue|8000|
+|Bottom|Green|4900|
+
+It is possible for the core to break immediately after a single attack after starting the second or third fight. I am not sure what causes this(likely to be a bug?)
+
 # Bestiary
 
 ## Marionettes and Bloody Mari
