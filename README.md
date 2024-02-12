@@ -123,7 +123,7 @@ Top Core
 
 |Values| Color | Effect|
 |---|---|---|
-|4000 or higher | Blue | Ice Beam attack lasts the shortest |
+|4000-6000 | Blue | Ice Beam attack lasts the shortest |
 |1000-3999| Green | Ice Beam attack lasts longer and Nightmare moves back and forth during this attack |
 |Under 1000| Red | HP Damage taken is 1/2x. Stylish meter gain is doubled. Ice Beam attack lasts the longest |
 
@@ -131,7 +131,7 @@ Bottom Core
 
 |Values| Color | Effect|
 |---|---|---|
-|5000 or higher | Blue |  |
+|5000-8000 | Blue |  |
 |1000-4999 | Green | The projectile attack has better aim and damage Dante takes from this attack is lowered. |
 |Under 1000| Red | HP Damage taken is 1/2x. Stylish meter gain is doubled.  |
 
