@@ -149,6 +149,10 @@ Certain events will reset the core values. The events are:
 
 It is possible for the core to break immediately after a single attack after starting the second or third fight. I am not sure what causes this(likely to be a bug?)
 
+### Final Core
+
+When Nightmare 3 is defeated, he reveals his final core, which is always red. He restores 2000 HP, and the final core has 2000. When it reaches under 1000, it breaks. 
+
 # Bestiary
 
 ## Marionettes and Bloody Mari
