@@ -9,7 +9,7 @@ Dante starts with 1000 HP. Each whole blue orb adds 100 HP. The maximum HP attai
 Dante and enemies do not die at 0 HP, they die at under 0 HP.
 
 ## Low HP
-Dante cannot die in one hit if he has more than 300 HP. When he has more than 300 HP, and he takes an attack that does more damage than his remaining HP, he will not die, and his health will be set to 0. When his health is 300 HP or less though, a hit that takes him under 0 HP will kill him. A visual indication of this is when the HP bar turns red. Note that this is not the same as when the HP bar border turns red, which starts at under 300 HP.
+Dante cannot die in one hit if he has more than 300 HP. When he has more than 300 HP, and he takes an attack that does more damage than his remaining HP, he will not die, and his health will be set to 0. When his health is 300 HP or less though, a hit that takes him under 0 HP will kill him. A visual indication of this is when the border of HP bar turns red, as it is red when Dante's health is at 299 or lower. However, there is one case, which is when the HP value is exactly 300. In this case, Dante will be able to die from any hit that does 301 or more damage, even though the border of his HP bar is not red. 
 
 # Devil Trigger Gauge
 Each rune of DT is worth 120 points. When DT is activated, the value is converted to 200 points per rune and drains at a rate of 1 point per frame. During flight mode with Alastor, DT drains at 2 points per frame. During using Kick-13, it drains 5 points per frame, and during Inferno, it drains 9 points per frame.
@@ -55,7 +55,7 @@ Each rune of DT is worth 120 points. When DT is activated, the value is converte
 # Stylish Meter
 Forget everything about the Stylish meter in DMC3 and onwards, the Stylish meter in DMC1 is basically a combo meter.
 
-Each attack to an enemy will earn points in the visible Stylish meter. For High Time, Magma Drive, or Meteor, the next attack following these attacks will also add a bonus value. When an attack connects, you have 1 second(60 frames) to maintain the Style meter by hitting an enemy with another attack. Charging Roundtrip, charging Ifrit attacks, or taunting will pause the timer. 
+Each attack to an enemy will earn points in the visible Stylish meter. For High Time, Magma Drive, or Meteor, the next attack following these attacks will also add a bonus value. When an attack connects, you have 89 frames to maintain the Style meter by hitting an enemy with another attack. When another attack hits, it resets the timer back to 89 frames. Charging Roundtrip, charging Ifrit attacks, or taunting will pause the timer. 
 
 Each attack has a designated number of red orbs it adds to the total. This is multiplied by the current Style meter multiplier to add to the total number of red orbs. This accumulated amount will never go away, even if you lose the Style meter. 
 
@@ -93,11 +93,14 @@ Does 2/3 damage of Alastor
 ## Alastor
 ## Ifrit
 ### Charging
-Charged attacks(Punches, Kicks, Magma Drive) will gain 10% damage per frame of charge. If it automatically releases, a 400% multiplier is applied.
+Charged attacks(Punches, Kicks, Magma Drive) will gain 10% damage per frame of charge, up to 590%. Punches and Kicks(not Magma Drive) will automatically have a 10% multiplier applied, even if there is zero charge. If any of these attacks automatically releases, a 400% multiplier is applied.
 
-For Meteor, it gains 2% of damage per frame of charge. If it automatically releases, a 400% multipler is applied.
+For Meteor, it gains (slightly less than) 2% of damage per frame of charge. If it automatically releases, a 400% multipler is applied. The exact value of charge per frame is 1/51.
 
 ## Sparda
+Sparda does twice as much damage as Alastor, effectively being the same damage as Alastor.
+
+In Mission 22, Sparda's attack range becomes 4x when in Devil Trigger.
 
 # Some Enemy Mechanics
 
