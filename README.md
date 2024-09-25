@@ -141,8 +141,9 @@ When the Shadow starts its horizontal spike attack, it sets a counter to 0. By j
 | DMD! | 420 |
 | DT Shadow | 450** |
 
-* 290 on PS2 versions outside of Japan.
-** 5450 on the 2018 HD versions.
+*290 on PS2 versions outside of Japan.
+  
+**5450 on the 2018 HD versions.
 
 ## Nelo Angelo Hit Counter
 
