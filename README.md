@@ -104,6 +104,46 @@ In Mission 22, Sparda's attack range becomes 4x when in Devil Trigger.
 
 # Some Enemy Mechanics
 
+## Death Scissor
+
+The Death Scissor has 5000 HP and two horns. The first horn breaks in the following conditions:
+
+| Attack | Breaking Condition | Additional Effect |
+|---|---|---|
+| Sword Attacks | Two hits to the front, or one hit to the back | If the Death Scissor's HP is above 4000, it becomes 4000. | 
+| Firearms, Air Raid, Vortex| Any hit that brings the Death Scissor HP to 4000 or lower |  |
+
+The second horn breaks under this condition:
+
+| Attack | Breaking Condition | Additional Effect |
+|---|---|---|
+| Sword Attacks | Five hits to the front, or one hit to the back | If the Death Scissor's HP is above 2000, it becomes 2000. | 
+| Firearms, Air Raid, Vortex| Any hit that brings the Death Scissor HP to 1500 or lower |  |
+
+When the horn breaks, the Death Scissor becomes red(invincible state) and starts the corkscrew attack.
+
+Any attack to the Death Scissor's back does double damage.
+
+TODO: Check Ifrit attacks
+
+## Death Scythe
+
+The Death Scythe has 3000 HP. If the Death Scythe has over 500 HP, any attack that would bring it to under 500 HP would instead just set the Death Scythe's HP to 500. Once this threshold has been met, the Death Scythe will be able to gather the 3 scythes on the ground and start its 4 scythe phase.
+
+## Shadow Critical Hit
+
+When the Shadow starts its horizontal spike attack, it sets a counter to 0. By just standing on the horizontal spike, this counter goes up by 1 per frame. The contribution from standing on the spike is at most 121. When the Shadow is attacked while Dante stands on the spike, the counter goes up by an additional 3(10 in the 2018 HD version) per frame for 8 frames, so it effectively adds 24(80 in the 2018 HD version) to this counter for each attack. When the following threshold is exceeded, the Shadow turns red.  
+
+| Difficulty | Threshold | 
+|---|---|
+| Normal | 280 |
+| Hard | 390* |
+| DMD! | 420 |
+| DT Shadow | 450** |
+
+* 290 on PS2 versions outside of Japan.
+** 5450 on the 2018 HD versions.
+
 ## Nelo Angelo Hit Counter
 
 When Nelo Angelo gets hit, he has a counter that increases by 1 for each hit. When it exceeds a certain value(16 for Nelo 1 and Shadow Nelo, 8 for Nelo 2 and 3), Nelo Angelo can block in the middle of a combo. This counter resets to 0 when Nelo teleports or charges a meteor.
@@ -126,17 +166,17 @@ Top Core
 
 |Values| Color | Effect|
 |---|---|---|
-|4000-6000 | Blue | Ice Beam attack lasts the shortest |
-|1000-3999| Green | Ice Beam attack lasts longer and Nightmare moves back and forth during this attack |
-|Under 1000| Red | HP Damage taken is 1/2x. Stylish meter gain is doubled. Ice Beam attack lasts the longest |
+|4000-6000 | Blue | Ice Beam attack lasts the shortest. |
+|1000-3999| Green | Ice Beam attack lasts longer and Nightmare moves back and forth during this attack. |
+| 999 or under | Red | HP Damage taken is 1/2x. Stylish meter gain is doubled. Ice Beam attack lasts the longest. |
 
 Bottom Core
 
 |Values| Color | Effect|
 |---|---|---|
 |5000-8000 | Blue |  |
-|1000-4999 | Green | The projectile attack has better aim and damage Dante takes from this attack is lowered. |
-|Under 1000| Red | HP Damage taken is 1/2x. Stylish meter gain is doubled.  |
+|1000-4999 | Green | The projectile attack has better aim. The damage Dante takes from this attack is lowered from 150 to 60. |
+| 999 or under | Red | HP Damage taken is 1/2x. Stylish meter gain is doubled.  |
 
 Certain events will reset the core values. The events are:
 1. When Dante returns from Nightmare's underworld
@@ -154,7 +194,7 @@ It is possible for the core to break immediately after a single attack after sta
 
 ### Final Core
 
-When Nightmare 3 is defeated, he reveals his final core, which is always red. He restores 2000 HP, and the final core has 2000. When it reaches under 1000, it breaks. 
+When Nightmare 3 initially gets his hp to -1 or lower, he reveals his final core. This core is always red in color, but it does not have the double defense the other cores have when they turn red. Nightmare restores 2000 HP. The attack that reveals the final core has its damage applied to the 2000 HP restored. The final core has 2000. When it reaches under 1000, it breaks, but this does not appear to do anything outside of visual. 
 
 # Bestiary
 
