@@ -185,13 +185,21 @@ Certain events will reset the core values. The events are:
 3. Trish's cutscene in Nightmare 3
 
 |Core Location|Color|Reset Value|
-|---|---|---|
+|---|---|---:|
 |Top|Blue | 6000|
 |Top|Green|3900|
+|Top|Red|900|
 |Bottom|Blue|8000|
 |Bottom|Green|4900|
+|Bottom|Red|4900*|
 
-It is possible for the core to break immediately after a single attack after starting the second or third fight. I am not sure what causes this(likely to be a bug?)
+* 900 on the PS2 North American, PS2 PAL, and PS2 Korean versions
+
+Note that there is a bug with a red bottom core when refilling the core values.
+
+#### Red Core Refill Bug
+
+On all versions of the game except PS2 North American, PS2 PAL, and PS2 Korean, a red bottom core does not refill correctly. A red bottom core refills the **top** core to 900. This does not change the color of the top core, but it will cause it to break and turn to the next color in one hit. On the PS2 North American, PS2 PAL, and PS2 Korean versions, this bug is fixed, and a red bottom core refills the values correctly.
 
 ### Final Core
 
