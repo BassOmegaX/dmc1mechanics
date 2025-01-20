@@ -193,17 +193,17 @@ Certain events will reset the core values. The events are:
 |Bottom|Green|4900|
 |Bottom|Red|4900*|
 
-* 900 on the PS2 North American, PS2 PAL, and PS2 Korean versions
+* 900 on the PS2 North American, PS2 PAL, and PS2 Korean versions. A red bottom core causes the top core(regardless of color) to reset to 900.
 
 Note that there is a bug with a red bottom core when refilling the core values.
 
 #### Red Core Refill Bug
 
-On all versions of the game except PS2 North American, PS2 PAL, and PS2 Korean, a red bottom core does not refill correctly. A red bottom core refills the **top** core to 900. This does not change the color of the top core, but it will cause it to break and turn to the next color in one hit. On the PS2 North American, PS2 PAL, and PS2 Korean versions, this bug is fixed, and a red bottom core refills the values correctly.
+On all versions of the game except PS2 North American, PS2 PAL, and PS2 Korean, a red bottom core does not refill correctly. A red bottom core refills the **top** core to 900. This does not change the color of the top core, but it will cause it to break and turn to the next color in one hit. On the PS2 North American, PS2 PAL, and PS2 Korean versions, this bug is fixed, and a red bottom core does not affect the top core.
 
 ### Final Core
 
-When Nightmare 3 initially gets his hp to -1 or lower, he reveals his final core. This core is always red in color, but it does not have the double defense the other cores have when they turn red. Nightmare restores 2000 HP. The attack that reveals the final core has its damage applied to the 2000 HP restored. The final core has 2000. When it reaches under 1000, it breaks, but this does not appear to do anything outside of visual. 
+When Nightmare 3 initially gets his hp to -1 or lower, he reveals his final core. This core is always red in color, but it does not have the double defense the other cores have when they turn red. Nightmare restores 2000 HP. The attack that reveals the final core has its damage applied to the 2000 HP restored. This means if the last hit to Nightmare before the final core does 500 damage, then 500 damage is applied to the 2000 HP and Nightmare has 1500 HP remaining. The final core has 2000. When it reaches under 1000, it breaks, but this does not appear to do anything outside of visual. 
 
 # Bestiary
 
