@@ -1,4 +1,4 @@
-# SPECIAL BONUS Guide - DEVIL MAY CRY
+# Special Bonus Guide - Devil May Cry
 
 ## Requirements
 
