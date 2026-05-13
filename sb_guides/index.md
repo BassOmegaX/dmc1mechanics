@@ -1,4 +1,5 @@
-To net 500 ranking points for time, you must go <i>under</i> the stipulated requirement e.g. for Mission 1, you must get 5:59 and not 6:00. Oddly enough, for red orbs, you can either <i>match</i> the stipulated requirement or go over it.</p>
+To net 500 ranking points for time, you must go *under* the stipulated requirement e.g. for Mission 1, you must get 5:59 and not 6:00. Oddly enough, for red orbs, you can either *match* the stipulated requirement or go over it.
+
 | MISSION | TIME  | RED ORBS |
 | ------- | ----- | -------- |
 | 1       | 6:00  | 400      |
