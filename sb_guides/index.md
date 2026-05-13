@@ -78,48 +78,44 @@ There is even a *third* method: E&I spam. Just make enemies drop down and fire a
 
 The 2nd wave:
 
-Enemy composition is random. Sometimes you get 0 Bloody Maris, sometimes up to 6. Too many DTed Bloody Maris will ruin your run.
+Once the first wave has gone down, you will have to tackle the second wave next. Now, here's where luck can really fuck with you. The first wave *always* consists of the same mixture (2 Bloody Maris, 1 Dark Blue Mari, 2 Light Blue Maris); not so the second wave. You can get anything from 0 Bloody Maris (extremely rare, but it does happen) to 6 Bloody Maris (I have yet to see 6 Bloody Maris myself, but other people insist that they've seen that number, so... &lt;_&lt;); the most common number by far, however, is either 2 or 3. Two or maybe three Bloody Maris are acceptable, but if you get four or five, you might just as well give your thumb a break and reset the game then and there. The reason? If DTed Marionettes in general get a huge defense boost, DTed Bloody Maris get the *mother* of all defense boosts. If you have to take out 3 DTed Bloody Maris with your puny E&I alone, you can kiss goodbye to the 6:00 time limit for Mission 1.
 
-When first wave ends, enter alcoves and kill two puppets quickly. Then either:
-- normal approach: stay aggressive in center
-- wussy approach: stay back and spam E&I
+Anyway: when the first wave has been dispatched, wait outside one of the alcoves, but *not* too close (otherwise you have a fairly high chance of getting hit by a pre-emptive attack). As soon as the door has fully opened, run inside and combo the 2 puppets inside until they die. (This is slightly trickier than it sounds, due to the crappy range of the Force Edge - sometimes one puppet can get away while you are comboing the other one. Try to avoid this by getting both puppets caught up in your slashes.) After killing those 2 puppets, the timer is probably getting awfully close to 0:00, although it will depend on how quickly you killed the first wave. At any rate, from this point you can either take the normal approach - or the *wussy* approach.
 
-Once DT triggers, assess:
-- 1 Bloody Mari = okay
-- 2+ Bloody Maris = risky
+The 'normal' approach is simply running into the centre of the basement and continuing to combo puppets until the timer reaches 0:00. This might not sound that dangerous, but believe me when I say that it is: the other puppets will *not* leave you alone. Keep an ear out for twirling sounds and *evade* when you hear them. A launched or knocked-down enemy can't actually DT - so if the timer is about to reach zero, High Time the enemy you are comboing and finish it off with juggled E&I - if you can.
 
-Shotgun Maris are especially dangerous. Evade at the end of their shot timing, or wall-jump to avoid.
+The 'wussy' approach is to hang back at the edge of the alcove after killing the 2 puppets inside it and spam E&I as fast as possible. For the most part you are safe there and you will probably take out at least 1-2 more puppets before the remainder DT.
+
+Once the enemies do actually DT, then comboing them or staying inside the alcove isn't safe anymore. Assess what's left over: if it's 4 DTed Bloody Maris, forget it; if it's 2 DTed Light Blue Maris, then go for it! As a rough guide, *one* DTed Bloody Mari is okay; if there are two DTed Bloody Maris, then you are really pushing it time-wise - it's up to you, though. If you decide to take on the DTed enemies, then walk around the perimeter of the basement and spam E&I. The aggressiveness of the DTed enemies seems to vary by quite a lot - sometimes they will be docile and hardly throw any projectiles; at other times, they will hardly take a break from hurling daggers and blades at you. Just roll to the side to avoid projectiles which aren't shotgun shots and resume firing E&I.
+
+A few notes about shotgun-wielding Marionettes. Firstly, there will probably be at least 1-2 of them, since the proportion of shotgun-wielding Marionettes is much higher in Hard/DMD than it is in Normal. Secondly, their shotgun shots are lethally accurate - jump at the *end* of the twirling sound to evade, not in the middle. For additional safety, do a wall-jump whenever a Mari shoots its shotgun. Thirdly, you can get Maris with shotguns to fire at their brethren - stand in between the shotgun Mari and the other enemies, wait until it gets ready to take a pot shot... and evade. I personally make it a point to get rid of shotgun Maris first of all, as I *hate* them and their shots don't seem to do that much damage to DTed enemies anyway; but there are other players who keep them alive 'til last - as always, it's up to you &gt;_&gt;.
+
+Breathe a huge sigh of relief when the final puppet finally scatters, then take the elevator up to the top. There's no rest for the wicked, as five Bloody Maris drop down as soon as you step into the room. Luckily, this room is actually *much* easier than the basement.
 
 The biplane room:
 
-Soften enemies with combos, then retreat to blue platform. Do NOT trigger Fetish early. Stay locked-on and spam E&I safely until enemies die.
+Soften the nearest Bloody Maris with a few 4-Hit combos first, but *don't* overdo it: you don't want the Bloody Maris to DT. After about 3 combos or so, start walking backwards, firing E&I as you go to weaken the Bloody Maris even further - head towards the low blue platform at the back of the biplane. When you reach it, do a *single* jump onto it only, as kick-jumping onto it risks waking the Fetish - AND WAKING THE FETISH TOO EARLY WILL RUIN EVERYTHING! (Sorry, capslock got stuck &gt;_&gt;). On the blue platform, you are not only safe from the Bloody Maris' projectiles, but they cannot DT while you are on there. Hold R1 at *all* times (so you don't accidentally jump off), and just spam E&I like a loon until all the Bloody Maris have died. It can be troublesome getting a lock sometimes; if this happens, just jump up (keep R1 held...) and keep firing until you get a new lock-on. If you're wondering why having the Fetish awake during this part would be so bad, it's because the Fetish's projectile attacks *can* reach you on the blue platform.
 
-Alternative: re-enter room and corner camp between doors, shooting enemies as they approach.
+There are alternative ways of clearing the biplane room, but this is the most common and safest method, really. But if you want another method, then here's one which is reasonably safe and fast. After taking the elevator back up to the top, rush past the Bloody Maris, exit and re-enter the biplane room. A Bloody Mari will drop down. Back slowly into the corner between the blue door and the red door, firing as consistently fast as possible. The four remaining Bloody Maris will shuffle towards you, one at a time. You should be able to take out all the puppets quite easily this way if your button-mashing skills are up to it. The main risk is of a Bloody Mari beginning a gliding dash towards you, which is fairly rare, but *can* happen - quickly High Time it if one should do so, otherwise it will DT.
 
-Final Fetish ends mission.
+And *that* is almost it: trigger the dropping of the Fetish and finish it off any way you like. End mission. And good luck.
 
----
+Maxed/LDK notes:
 
-Maxed / LDK notes:
+With a maxed Dante, SBing DMD Mission 1 is almost trivial; simply go to town with the grenade gun and DT abilities such as Vortex Lvl 2 everywhere you encounter enemies. Because a maxed Dante can get through this mission *so* much faster, you can kill all 15 or so Fetishes which drop down from the portal, if you like: I personally find it fun maintaining a 'Stylish' rating for the entire time they drop down. (If memory serves, you need to kill the Fetish with a grounded High Time, do a double taunt, then greet the newly-dropping Fetish with a High Time, in order to not lose the rating in between Fetishes dropping down.)
 
-Maxed Dante trivializes this mission using grenade gun + DT abilities.
-
-LDK makes Yamato strong enough that you can safely rely on DT combos instead of ranged farming.
-
----
+With a fresh LDK, SBing DMD Mission 1 is significantly harder, but it's still much easier than with a fresh Dante. Follow the walkthrough for fresh Dante, but use Yamato instead of the Force Edge - and make use of your DT whenever it's full. If the enemies DT in the basement, then LDK can launch them, knock them backwards, etc., if he DTs. In the biplane room, even 3 runes of DTed Yamato is powerful enough to defeat the Bloody Maris - don't use the slow Multi-Stab combo, however. Use, as always, 4-Hit combos instead. Of course, if you want to play it truly safe, you can still use the shoot-L&O-from-the-blue-platform method, but - unlike with a fresh Dante - it isn't *necessary*.
 
 Normal mode:
 
-Harder due to fewer orb sources.
+It's surprisingly tough getting an SB in Mission 1 in Normal mode - in my opinion, despite being a non-boss mission this is one of the tougher missions of the game to SB. One thing which makes it so tough is the red orb requirement: Hard/DMD Mission 1 is easier on that front all round, because at least there are Fetishes to orb-farm, whereas Normal Mission 1 only has Marionettes.
 
-Must collect:
-- spear orbs
-- plane orbs
-- tower orbs
+To begin with, you should collect all hidden red orb sources - that includes the 100 red orbs on the horserider's spear tip and the 40 red orbs on the biplane's nose. (For details of how to reach these spots, read the DMD walkthrough above.) There are also 40-ish red orbs in the tower in total - to get them all, slash the suits of armour, then slash the two tables in the next room; upstairs, slash the two weapon stands. And, finally, there are 45 red orbs in the main hall, although to get them all can be time-consuming - you should at least get the ones which are easy to access, though.
 
-Farm Stylish combos carefully in:
-- rusted key room
-- basement
-- biplane room
+In the rusted key room, I would fight the two Maris - the Bloody Mari has enough health that you should be able to get up to a 'Stylish' combo rating. An easy (cheap?) way of doing this is to get rid of the green Mari ASAP, and then use *nothing* except grounded High Times on the Bloody Mari until it dies. It may sound odd, but it works. You'll easily reach Stylish and net about 30 red orbs (more, if you got a truly resistant one) when it dies.
 
-Need at least **355 red orbs** after costs.
+How you tackle the rest of the mission is your choice. You will need to do some more orb-farming against Marionettes where you reach a 'Stylish' combo rating, which you can do either in the tower or in the basement/biplane rooms. If you orb-farm in the tower, then enter/exit the trident room after collecting the rusted key and defeat the light blue Mari outside the door: after that, Maris will drop down from a portal for a while, and you'll also get some Maris appearing downstairs. Aim to get 'Stylish' combo ratings, otherwise the puppets will drop peanuts for red orbs. Since the lighter-coloured puppets have so much less health than the Bloody Maris, the relatively weak Multi-Stab combo actually works well here: try to use High Time as a finisher, though, rather than the final thrust, unless there are other enemies close by - in general, you don't want to be sending puppets flying miles backwards unless there is a wall to stop them, as otherwise your combo rating will disappear before you can reach them. Unlike in DMC3, the style meter doesn't slowly decay in DMC1: it drops from Stylish to nothing instantly.
+
+Down in the basement, it's quite easy to reach Stylish against the first wave. It's harder, but not impossible, to get a Stylish rating from the much more dispersed 2nd wave. Try using *slowed-down* grounded High Times against the first pair of puppets; this will keep them - and your combo rating - alive long enough for more puppets to join you. Back up in the biplane room, it's also easy to reach a Stylish rating - but the offscreen enemies are a *bastard*. If you hear a twirling sound - and you most likely will - evade, even if it means losing your combo rating.
+
+Keep an eye on how many red orbs you have; bearing in mind that you spent 45 red orbs to go through the red spellbound door, you'll need a tally of at least 355 red orbs to ensure that you have met the red orb requirement.
