@@ -1,6 +1,18 @@
 # Special Bonus Guide - Devil May Cry
 
-## Requirements
+{:toc}
+
+## Prologue
+
+### Introduction
+
+TBA
+
+### What is a Special Bonus?
+
+TBA
+
+### Requirements
 
 To net 500 ranking points for time, you must go *under* the stipulated requirement e.g. for Mission 1, you must get 5:59 and not 6:00. Oddly enough, for red orbs, you can either *match* the stipulated requirement or go over it.
 
@@ -33,6 +45,18 @@ To net 500 ranking points for time, you must go *under* the stipulated requireme
 <p id="footnote-1">
   <b>1.</b> The time limit has been extended to 8:00 for DMD mode only.
 </p>
+
+### Ranking Anomalies
+
+TBA
+
+### Differences between difficulty modes
+
+TBA
+
+### DTed enemies
+
+TBA
 
 ## Walkthrough
 
