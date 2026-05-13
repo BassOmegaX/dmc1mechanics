@@ -25,16 +25,12 @@ To net 500 ranking points for time, you must go *under* the stipulated requireme
 | 19      | 3:30  | 500      |
 | 20      | 4:30  | 700      |
 | 21      | 5:00  | 700      |
-| 22[^1]<sup id="fn1">1</sup>     | 5:00  | 0        |
+| 22<sup id="fn1">1</sup>     | 5:00  | 0        |
 | 23      | 7:00  | 600      |
-
-<sup id="fn1">1</sup>.
 
 <p id="footnote-1">
   <b>1.</b> The time limit has been extended to 8:00 for DMD mode only.
 </p>
-
-[^1]: The time limit has been extended to 8:00 for DMD mode only.
 
 ## Walkthrough
 
