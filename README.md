@@ -37,19 +37,19 @@ Each rune of DT is worth 120 points. When DT is activated, the value is converte
 | --- | --- | --- |
 | Normal      | 1x |    1x   |
 | Hard   | 1x  |   2x  |
-|Dante Must Die!* | 1x | 2x |
+|Dante Must Die!<sup>1</sup>  | 1x | 2x |
 
-*Enemies activating Devil Trigger triples their damage to Dante. For defensive values after Devil Triggering, Marionettes and Fetishes take 1/2 damage. Sin Scissors, Sin Scythes, Sargassos, Plasmas, and Green Beelzebubs take 1/3 damage. Blue Beelzebubs takes 1/6 damage. See Bestiary.
+1. Enemies activating Devil Trigger triples their damage to Dante. For defensive values after Devil Triggering, Marionettes and Fetishes take 1/2 damage. Sin Scissors, Sin Scythes, Sargassos, Plasmas, and Green Beelzebubs take 1/3 damage. Blue Beelzebubs takes 1/6 damage. See Bestiary.
 
 ## Bosses 
 
 | Difficulty Mode      | Damage you do | Damage taken |
 | --- | --- | --- |
 | Normal      | 1x |    1x   |
-| Hard   |  1/3x, 1x*  |   2x  |
+| Hard   |  1/3x, 1x<sup>1</sup>  |   2x  |
 |Dante Must Die! | 1/3x | 5x |
 
-* You do regular damage to bosses when you Devil Trigger and use a melee attack. DT'd firearm attacks and all nonDT attacks do 1/3 damage.
+1. You do regular damage to bosses when you Devil Trigger and use a melee attack. DT'd firearm attacks and all nonDT attacks do 1/3 damage.
 
 
 # Stylish Meter
@@ -137,23 +137,42 @@ When the Shadow starts its horizontal spike attack, it sets a counter to 0. By j
 | Difficulty | Threshold | 
 |---|---|
 | Normal | 280 |
-| Hard | 390* |
+| Hard | 390<sup>1</sup> |
 | DMD! | 420 |
-| DT Shadow | 450** |
+| DT Shadow | 450<sup>2</sup> |
 
-*290 on PS2 versions outside of Japan.
-  
-**5450 on the 2018 HD versions.
+1. 290 on PS2 versions outside of Japan.
+2. 5450 on the 2018 HD versions.
 
-## Nelo Angelo Hit Counter
+## Nelo Angelo 
+
+### Nelo Angelo 1 Teleportation
+
+The arena fighting Nelo Angelo 1 has three levels. We begin at the bottom level, and throughout the fight, we go to the second and third level. 
+
+Nelo Angelo 1 has 1500 HP. When his HP is under 1000, he will teleport to the second level if idle. If he is attacked while his HP is under 1000, he will automatically teleport. Similarly, when his HP is under 500, he will teleport to the third level if idle, and if he is attacked while his HP is under 500, he will automatically teleport. With some attacks that do enough damage, such as Holy Water, he can skip the second level and go from the first level to third level directly.
+
+### Hit Counter
 
 When Nelo Angelo gets hit, he has a counter that increases by 1 for each hit. When it exceeds a certain value(16 for Nelo 1 and Shadow Nelo, 8 for Nelo 2 and 3), Nelo Angelo can block in the middle of a combo. This counter resets to 0 when Nelo teleports or charges a meteor.
 
-## Griffon Knockdown
+### Parry Stun Probabilities
 
-When Griffon is hit by a Devil Arm attack, excluding Air Raid, Vortex, and Roundtrip, he has a counter that increases by 2 for each hit. When this value reaches 30 for Griffon 1 or 20 for Griffon 3, he is knocked down.
+For all Nelo Angelo encounters except the third fight, hitting his sword gives a 13/16 probability of being stunned. For the third Nelo Angelo fight, hitting his sword gives a 5/8 probability of being stunned.
 
-* The counter also increases by 1 sometimes if he is hit in the air by a firearm. I believe that it has to hit his head hitbox for it to count.
+## Griffon 
+
+### Knockdown
+
+When Griffon is hit by a Devil Arm attack, excluding Air Raid, Vortex, and Roundtrip, he has a counter that increases by 2 for each hit. When this value reaches a certain threshold, Griffon gets knocked down.
+
+The threshold is 30 for Griffon 1 and 20 for Griffon 3. Griffon 2 cannot be knocked down.
+
+1. The counter also increases by 1 sometimes if he is hit in the air by a firearm. I believe that it has to hit his head hitbox for it to count.
+
+### Griffon 3 Defense
+
+Griffon 3 begins with 10000 HP. When he reaches 1500 HP, his defense doubles and he takes half damage from all attacks. Note that this phase change cannot occur while Griffon is knocked down.
 
 ## Nightmare
 
@@ -203,7 +222,7 @@ On all versions of the game except PS2 North American, PS2 PAL, and PS2 Korean, 
 
 ### Final Core
 
-When Nightmare 3 initially gets his hp to -1 or lower, he reveals his final core. This core is always red in color, but it does not have the double defense the other cores have when they turn red. Nightmare restores 2000 HP. The attack that reveals the final core has its damage applied to the 2000 HP restored. This means if the last hit to Nightmare before the final core does 500 damage, then 500 damage is applied to the 2000 HP and Nightmare has 1500 HP remaining. The final core has 2000. When it reaches under 1000, it breaks, but this does not appear to do anything outside of visual. 
+When Nightmare 3 initially gets his hp to -1 or lower, he reveals his final core. This core is always red in color, but it does not have the double defense the other cores have when they turn red. Nightmare restores 2000 HP. The attack that reveals the final core has its damage applied to the 2000 HP restored. This means if the last hit to Nightmare before the final core does 500 damage, then 500 damage is applied to the 2000 HP and Nightmare has 1500 HP remaining. The final core has 2000. When it reaches under 1000, it breaks. Before breaking, the core can only shoot lasers. After breaking, it will start to shoot out projectiles and slugs in the middle of shooting lasers.
 
 # Bestiary
 
