@@ -1,3 +1,5 @@
+# SPECIAL BONUS Guide - DEVIL MAY CRY
+
 ## Requirements
 
 To net 500 ranking points for time, you must go *under* the stipulated requirement e.g. for Mission 1, you must get 5:59 and not 6:00. Oddly enough, for red orbs, you can either *match* the stipulated requirement or go over it.
