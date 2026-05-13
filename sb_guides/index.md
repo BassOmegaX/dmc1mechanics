@@ -1,5 +1,6 @@
 # Special Bonus Guide - Devil May Cry
 
+* TOC
 {:toc}
 
 ## Prologue
