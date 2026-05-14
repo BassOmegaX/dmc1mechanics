@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This is the original guide written by Joch circa mid 2000s. It was one of the best guides available for the game, and the information is still relevant. It is now reproduced here updated with more recent knowledge since. [Here is a link is the original guide with no edits.](SB_FAQ_original.html) Note that the information is applicable to the PS2 USA version, which has its own set of version differences.
+This is the original guide written by Joch circa mid 2000s. It was one of the best guides available for the game, and the information is still relevant. It is now reproduced here updated with more recent knowledge since. [Here is a link is the original guide with no edits.](SB_FAQ_original.html) Note that the original guide is applicable to the PS2 USA version, which has its own set of version differences.
 
 ### The Ranking System and Special Bonuses
 
@@ -161,6 +161,8 @@ Down in the basement, it's quite easy to reach Stylish against the first wave. I
 
 Keep an eye on how many red orbs you have; bearing in mind that you spent 45 red orbs to go through the red spellbound door, you'll need a tally of at least 355 red orbs to ensure that you have met the red orb requirement.
 
+---
+
 ### Mission 2 – Judge of Death
 
 | Time  | Red Orbs |
@@ -171,3 +173,9 @@ This is one of the easiest missions in the game to SB, provided you draw Sin Scy
 
 In the hallway, you will usually have to pass a Shadow. Use audio cues to evade it, as it will normally attack from off-screen. It has a soft whirring sound for its horizontal spike attack, and a sort of gulping sound for its aerial throw attack. Just jump forwards at the end of the soft, whirring sound and hang back if you hear the other, subtler, sound. (Otherwise you could risk jumping *straight* into a lunging cat - not good.) Once you get *really* familiar with the hallway Shadow, you can do pointless things like jump onto it as you run down the corridor... >_>
 
+Make your way to the end of the corridor and pick up Alastor, 
+skipping the cutscene of Dante getting speared - yes, yes, we know he 
+comes back to life, just give me the *sword* already. In the 
+library, collect the rusty key and the shotgun under the table, and go 
+back down to the fountain room. Upon entering, you will enter a 40 
+second "do or die" countdown with either Sin Scythes or Blades.
