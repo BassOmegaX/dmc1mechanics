@@ -68,12 +68,11 @@ sealed and a timed countdown begins: once the timer counts down to 0:00,
 
 ### Mission 1 – Curse Of The Bloody Puppets
 
-Watch or skip the opening cinemas. Trish does a supernatural leap about 100 feet high and Dante is left on his own. You know which way to go. Collect the yellow orb on your left and jump up onto the bridge to collect the blue orb in the small tower. This is your *only* opportunity of the game to get the blue orb in this area, so *don't* forget it.
+| Time  | Red Orbs |
+| -----: | --------: |
+| 6:00  | 400      |
 
-After entering the castle:
-
-**Time:** 6:00  
-**Orbs:** 400  
+Watch or skip the opening cinemas. Trish does a supernatural leap about 100 feet high and Dante is left on his own. You know which way to go. Collect the yellow orb on your left and jump up onto the bridge to collect the blue orb in the small tower. This is your *only* opportunity of the game to get the blue orb in this area, so *don't* forget it. The mission begins after entering the castle.
 
 **NOTE**: Depending on whether you are doing a fresh or a maxed game, or whether you are using LDK or Dante, DMD Mission 1 can either be one of the easiest games in the mission to SB or one of the hardest. A fresh LDK has a massive advantage over a fresh Dante for this mission, simply by virtue of having Yamato equipped. The following walkthrough will assume the player is using a fresh Dante, but I will add a few notes for a maxed/LDK game at the end.
 
@@ -146,16 +145,11 @@ Down in the basement, it's quite easy to reach Stylish against the first wave. I
 
 Keep an eye on how many red orbs you have; bearing in mind that you spent 45 red orbs to go through the red spellbound door, you'll need a tally of at least 355 red orbs to ensure that you have met the red orb requirement.
 
-### Mission 1 – Curse Of The Bloody Puppets
-
-Watch or skip the opening cinemas. Trish does a supernatural leap about 100 feet high and Dante is left on his own. You know which way to go. Collect the yellow orb on your left and jump up onto the bridge to collect the blue orb in the small tower. This is your *only* opportunity of the game to get the blue orb in this area, so *don't* forget it.
-
-After entering the castle:
-
 ### Mission 2 – Judge of Death
 
-**Time:** 7:00  
-**Orbs:** 450  
+| Time  | Red Orbs |
+| -----: | --------: |
+| 7:00  | 450      |
 
 This is one of the easiest missions in the game to SB, provided you draw Sin Scythes and not Blades in the fountain room. Of course, you can always reset until you get Sin Scythes.
 
