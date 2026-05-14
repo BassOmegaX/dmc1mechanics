@@ -7,11 +7,12 @@
 
 ### Introduction
 
-This is the original guide written by Joch circa mid 2000s. It was one of the best guides available for the game. It is now reproduced here updated with more recent knowledge since. 
+This is the original guide written by Joch circa mid 2000s. It was one of the best guides available for the game, and the information is still relevant. It is now reproduced here updated with more recent knowledge since. 
 
-### What is a Special Bonus?
+### The Ranking System and Special Bonuses
 
-TBA
+Special Bonus is a reward of 2000 red orbs given for a 'perfect' S Rank. You get an end-of-mission rank in DMC1 based on the number of 
+ranking points you have managed to accumulate. The lowest rank is D and the highest is S. To get an S Rank with<i>out</i> a Special Bonus, you need 1000 ranking points. To get an S Rank <i>with</i> a Special Bonus, you need 1500 ranking points. 
 
 ### Requirements
 
@@ -53,9 +54,17 @@ TBA
 
 ### Differences between difficulty modes
 
-TBA
+Taking Normal mode as the reference point, Hard mode regular enemies have the same health as Normal mode ones, but 2x deal more damage to Dante. Hard bosses, by the same token, have the *same* health as their Normal counterparts, but once again 2x deal more damage. 
 
-### DTed enemies
+Again, taking Normal mode as the reference point, DMD mode regular enemies have slightly *lesser* health than their Normal/Hard counterparts (I'll explain this in the next section), but deal out the same amount of damage as do Hard enemies. DMD bosses, however, have 2.5x *more* health than their Normal/Hard counterparts and also deal out the 2.5x amount of damage as do Hard bosses.
+
+Hopefully you followed that ^. The only other differences relate to different enemy placements in Hard/DMD modes (you get harder enemies appearing earlier on) and, in DMD mode, regular enemies can now DT: I'll talk about that in the next section coming right up, however.
+
+...
+
+Easy Automatic mode? What's that...? >_>
+
+### Enemy Devil Trigger
 
 In DMD mode, regular enemies gain a funky new ability: the ability to DT on your arse and kick it harder than a rugby player kicks a ball. There are two main mechanics by which enemies can DT in DMC1:
 
@@ -63,6 +72,13 @@ In DMD mode, regular enemies gain a funky new ability: the ability to DT on your
 sealed and a timed countdown begins: once the timer counts down to 0:00,
  every remaining enemy in the room will DT.
 2. Timed interval - Sounds similar to the above, except exits aren't sealed, there's no timer counting down, and not *every* enemy will DT. Instead, after a preset period of time, which varies from enemy to enemy, *some* of the enemies in the room will start to DT. Proximity matters: if you are too far away from the enemies or *higher* than them, they won't DT.
+
+What can DTed enemies do, apart from kick your arse? Well, kicking your arse is mainly it. The majority of DTed enemies simply gain an *offense* boost only and nothing more. (It's a big one, though - a DTed regular enemy can kill you in 1-2 hits easily.) A few enemies, however, gain a similarly huge *defense<* boost: namely Marionettes, Fetishes, Plasmas and Sin Scissors (though they are still susceptible to a CH kill). DTed Plasmas, meanwhile, gain a triple whammy: defense, offense *and* speed boost.
+
+Shadows are the only creatures which gain a new attack, although technically it's not actually new at all. Their auto-lancing attack, 
+which formerly was only triggered by hitting the Shadow with a melee attack, is now triggered whenever you simply get *near* the Shadow - that makes evading DTed lunging red Shadows a true bundle of laughs.
+
+In general, you should try not to let regular enemies DT in an SB game, as it *usually* means you are taking too long to defeat them if they get time to DT. There are exceptions, though: for example, when fighting a pair of Shadows, the second one will always DT unless the first one is defeated almost impossibly quickly. If a group of enemies *do* DT on you, then in most cases Vortex and the grenade gun will still finish them off - it will just take longer.
 
 ## Walkthrough
 
