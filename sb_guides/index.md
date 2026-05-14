@@ -7,7 +7,7 @@
 
 ### Introduction
 
-TBA
+This is the original guide written by Joch circa mid 2000s. It was one of the best guides available for the game. It is now reproduced here updated with more recent knowledge since. 
 
 ### What is a Special Bonus?
 
