@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This is the original guide written by Joch circa mid 2000s. It was one of the best guides available for the game, and the information is still relevant. It is now reproduced here updated with more recent knowledge since. 
+This is the original guide written by Joch circa mid 2000s. It was one of the best guides available for the game, and the information is still relevant. It is now reproduced here updated with more recent knowledge since. [Here is a link is the original guide with no edits.](SB_FAQ_original.html) Note that the information is applicable to the PS2 USA version, which has its own set of version differences.
 
 ### The Ranking System and Special Bonuses
 
