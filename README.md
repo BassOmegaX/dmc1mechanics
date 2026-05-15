@@ -170,12 +170,56 @@ Mission 3 underwater damage over time and Mission 7 damage over time is low enou
 
 ## Secret Mission Points
 
-| Secret Mission | Ranking Points  | 
+| Secret Mission | Ranking Points | 
 | :------- | -----: | 
 | 1, 5, 6, 7, 8, 10, 11, 12 | 200 |
 | 2, 3, 4, 9 | 100 |
 
 Note that Secret Mission 7 cannot be done while in a mission, so while it does give 200 ranking points, these points will never be applied to any mission. 
+
+## Total Ranking Point Requirements
+
+### All Difficulties except DMD
+
+| Rank | Requirement |
+| --- | --- |
+| S | 1000 or more |
+| A | 800 to 900 |
+| B | 500 to 700 |
+| C | 0 to 400 |
+| D | Under 0 |
+
+### DMD Difficulty
+
+| Rank | Requirement |
+| --- | ---: |
+| S | 700 or more |
+| A | 400 to 600 |
+| B | 200 to 300 |
+| C | 0 to 100 |
+| D | Under 0 |
+
+### Red Orbs Given
+
+| Rank | Mission 1 to 8 | Mission 9 to 15 | Mission 16 to 22 | Mission 23 | 
+| --- | ---: | ---: | ---: | ---: |
+| S | 800 | 1500 | 2000 | 3000 |
+| A | 400 | 800 | 1000 | 2000 |
+| B | 200 | 350 | 500 | 1000 |
+| C | 100 | 200 | 250 | 500 |
+| D | 50 | 100 | 100 | 250 |
+
+## Boss Bonus
+
+The boss bonus is red orbs given at the end of the mission which ends after defeating a boss with a ctuscene where
+
+| Mission | Red Orbs|
+| ---: | ---: | 
+| 4 | 500 |
+| 17 | 800 |
+| 20 | 800 |
+| 22 | 1000 |
+| 23 | 1000 |
 
 # Firearms
 
