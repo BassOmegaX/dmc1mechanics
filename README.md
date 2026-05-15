@@ -211,7 +211,7 @@ Note that Secret Mission 7 cannot be done while in a mission, so while it does g
 
 ## Boss Bonus
 
-The boss bonus is red orbs given at the end of the mission which ends after defeating a boss with a ctuscene where
+The boss bonus is given in missions where a boss is defeated, but the following cutscene ends the mission. This means the player has defeated a boss but did not collect any red orbs from defeating the boss.
 
 | Mission | Red Orbs|
 | ---: | ---: | 
