@@ -11,7 +11,10 @@ Dante and enemies do not die at 0 HP, they die at under 0 HP.
 ## Low HP
 Dante cannot die in one hit if he has more than 300 HP. When he has more than 300 HP, and he takes an attack that does more damage than his remaining HP, he will not die, and his health will be set to 0. When his health is 300 HP or less though, a hit that takes him under 0 HP will kill him. A visual indication of this is when the border of HP bar turns red, as it is red when Dante's health is at 299 or lower. However, there is one case, which is when the HP value is exactly 300. In this case, Dante will be able to die from any hit that does 301 or more damage, even though the border of his HP bar is not red. 
 
-# Devil Trigger Gauge
+# Devil Trigger
+
+## Gauge Mechanics
+
 Each rune of DT is worth 120 points. When DT is activated, the value is converted to 200 points per rune and drains at a rate of 1 point per frame. During flight mode with Alastor, DT drains at 2 points per frame. During using Kick-13, it drains 5 points per frame, and during Inferno, it drains 9 points per frame.
 
 ## Stat Changes
@@ -71,15 +74,126 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 
 ## Values List
 
+TBA
 
 # Mission End Ranking
+
+There are five categories that affect the ranking given at the end of each mission:
+
+1. Time
+2. Red Orbs Collected
+3. Damage Taken
+4. Items Used
+5. Secret Missions Completed
+
+## Time and Red Orb Requirements
+
+| Mission | Time  | Red Orbs |
+| -------: | -----: | --------: |
+| 1       | 6:00  | 400      |
+| 2       | 7:00  | 450      |
+| 3       | 3:00  | 550      |
+| 4       | 4:00  | 550      |
+| 5       | 2:00  | 100      |
+| 6       | 3:30  | 250      |
+| 7       | 3:00  | 650      |
+| 8       | 3:00  | 585      |
+| 9       | 8:00  | 1500     |
+| 10      | 4:30  | 600      |
+| 11      | 5:30  | 1000     |
+| 12      | 4:00  | 700      |
+| 13      | 2:30  | 200      |
+| 14      | 5:00  | 500      |
+| 15      | 10:00 | 1400     |
+| 16      | 6:00  | 1000     |
+| 17      | 7:00  | 600      |
+| 18      | 6:00  | 900      |
+| 19      | 3:30  | 500      |
+| 20      | 4:30  | 700      |
+| 21      | 5:00  | 700      |
+| 22<sup id="fn1">1</sup>     | 5:00  | 0        |
+| 23      | 7:00  | 600      |
+
+<p id="footnote-1">
+  <b>1.</b> The time limit has been extended to 8:00 for DMD mode only.
+</p>
+
+## Time
+
+| Time | Ranking Points  |
+| -------: | -----: |
+| Meet time limit | 500 |
+| At most 30 seconds over | 300 |
+| At most 2 minutes over | 200 |
+| At most 5 minutes over | 100 |
+| Above 5 minutes over | 0  |
+
+The mission timer keeps track of everything from mission start to mission end. This includes going into the menus, watching cutscenes, and loading times. 
+
+The mission end screen displays the mission time in hours:minutes:seconds. The game keeps tracks of the number of frames from mission start to mission end, but it does not display this number. Each threshold is to the frame. So a 3 minute time limit is exactly 180 frames. A displayed time of 3:00 will only meet the threshold if it is 3:00 and 0 frames. This means most of the time, the displayed time should be less than the mission time requirement in order to get 500 ranking points, and the same for each threshold. 
+
+## Red Orbs
+
+| Red Orbs Percentage Collected | Ranking Points  |
+| -------: | -----: |
+| 100% or more | 500 |
+| 80% or more | 300 |
+| 50% or more | 200 |
+| 30% or more | 100 |
+| Under 30% | 0  |
+
+## Damage Taken
+
+| Damage Taken | Ranking Points  |
+| -------: | -----: |
+| 0 | 500 |
+| 1 to 500 | 300 |
+| 501 to 1000 | 200 |
+| 1001 to 1500 | 100 |
+| 1501 or more | 0  |
+
+### Note on Damage over Time (Mission 3 and Mission 7)
+
+ - Need to fully expand section
+
+Mission 3 underwater damage over time and Mission 7 damage over time is low enough to not affect the ranking points on Normal mode. For Hard and DMD, environmental damage doubles. This makes it so that the damage over time does affect ranking. However, activating Devil Trigger reduces the damage low enough for it to not affect mission ranking.
+
+## Item Penalty
+
+| Item | Ranking Penalty  | 
+| :------- | -----: | 
+| Devil Star       | -100 |
+| Holy Water       | -100 |
+| Vital Star       | -300 |
+| Yellow Orb       | -300 |
+| Untouchable       | -500 |
+
+## Secret Mission Points
+
+| Secret Mission | Ranking Points  | 
+| :------- | -----: | 
+| 1, 5, 6, 7, 8, 10, 11, 12 | 200 |
+| 2, 3, 4, 9 | 100 |
+
+Note that Secret Mission 7 cannot be done while in a mission, so while it does give 200 ranking points, these points will never be applied to any mission. 
 
 # Firearms
 
 ## Ebony and Ivory
+
+TBA
+
 ## Shotgun
+
+TBA
+
 ## Grenadegun
+
+TBA
+
 ## Needlegun
+
+TBA
 
 ## Nightmare-$\beta$
 
@@ -91,13 +205,30 @@ When the Nightmare-$\beta$ is equipped, Dante's punch attacks with his left arm 
 Does 2/3 damage of Alastor
 
 ## Alastor
+
+TBA-move list
+
 ## Ifrit
+
+### Move List
+
+TBA - move list
+
 ### Charging
 Charged attacks(Punches, Kicks, Magma Drive) will gain 10% damage per frame of charge, up to 590%. Punches and Kicks(not Magma Drive) will automatically have a 10% multiplier applied, even if there is zero charge. If any of these attacks automatically releases, a 400% multiplier is applied.
 
 For Meteor, it gains (slightly less than) 2% of damage per frame of charge. If it automatically releases, a 400% multipler is applied. The exact value of charge per frame is 1/51.
 
 ## Sparda
+
+### Move List
+
+Moves outside of M22
+
+Moves in M22
+
+### Stats
+
 Sparda does twice as much damage as Alastor, effectively being the same damage as Alastor.
 
 In Mission 22, Sparda's attack range becomes 4x when in Devil Trigger.
