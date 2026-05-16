@@ -173,9 +173,339 @@ This is one of the easiest missions in the game to SB, provided you draw Sin Scy
 
 In the hallway, you will usually have to pass a Shadow. Use audio cues to evade it, as it will normally attack from off-screen. It has a soft whirring sound for its horizontal spike attack, and a sort of gulping sound for its aerial throw attack. Just jump forwards at the end of the soft, whirring sound and hang back if you hear the other, subtler, sound. (Otherwise you could risk jumping *straight* into a lunging cat - not good.) Once you get *really* familiar with the hallway Shadow, you can do pointless things like jump onto it as you run down the corridor... >_>
 
-Make your way to the end of the corridor and pick up Alastor, 
-skipping the cutscene of Dante getting speared - yes, yes, we know he 
-comes back to life, just give me the *sword* already. In the 
-library, collect the rusty key and the shotgun under the table, and go 
-back down to the fountain room. Upon entering, you will enter a 40 
-second "do or die" countdown with either Sin Scythes or Blades.
+Make your way to the end of the corridor and pick up Alastor, skipping the cutscene of Dante getting speared - yes, yes, we know he comes back to life, just give me the *sword* already. In the library, collect the rusty key and the shotgun under the table, and go back down to the fountain room. Upon entering, you will enter a 40 second "do or die" countdown with either Sin Scythes or Blades.
+
+The Sins are almost stupidly easy to deal with - one shotgun shot to stun them, another shot to kill them. Keep on going until they stop spawning to *more* than meet the red orb requirement for Mission 2. The Blades are a different kettle of fish (or should that be lizards? :p). In a maxed game, you can use the grenade gun, Vortex, etc., and it will be a *lot* easier. But in a fresh game, you won't have very much at your disposal: it's still doable, though - provided you go for critical hits. (Check the Blades section in the Beastiary for details.)
+
+The ground floor is a *horrible* place to fight Blades. The camera angles are jarring to a degree, and the Blades just simply love
+to sneak in lunging hits from offscreen. So don't fight them there. Instead, there is a fantastic spot on the balcony which you can camp out on. It's on the same side of the room as the spellbound door, but on the *other side* of the hole in the floor - the side furthest away from the door. If, when first entering the room, you head for this spot straight away (you can do a wall-jump onto the balcony - no need to take the stairs and go the long way round), Blades will leap up through the hole, usually one at a time (occasionally you can get unlucky and two will come up together) - leading to a very easy critical hit kill, provided you know how to do them.
+
+The main advantage of fighting Blades over Sin Scythes is, simply, more red orbs. Once the Blades DT, you will get 80 red orbs per CH kill. (It's 50 orbs per non-DTed CH kill.) For Sin Scythes, you always get 40 red orbs per kill, regardless of whether they are DTed or not.
+
+Once the fountain room is cleared, you can collect 40 hidden red orbs by jumping on top of the fountain. Exit the room from the 1st floor balcony and make your way via the secret passage to the library. Upon trying to leave the library, three Sin Scissors will appear. Try to take out the nearest one immediately with a critical hit as soon as it opens its scissors. Kill the remaining two with either critical hits, DTed wall-jumped downward slashes, or just by going to town with the shotgun. (Though Sin Scissors are not as susceptible to the shotgun as Sin Scythes are, they will still go down to several shotgun shots.)
+
+Before using the Staff of Judgement and ending this mission, do not fail to:
+
+****EQUIP THE GUN YOU WANT TO USE FOR MISSION 3 *NOW*****
+
+You can't say I didn't warn you :p
+
+In a fresh game, equip the shotgun (E&I; will be too slow for the Sargassoes). In a maxed game, you can also equip the grenade gun if you prefer. You have to do this now, because there simply won't be time for a gun change in Mission 3...
+
+
+Normal mode
+
+You can SB this mission in two ways in Normal mode.
+
+The first way is comboing groups of Marionettes until you earn 450 red orbs. There are fewer red orb sources in Mission 2 than in Mission 1, but you still shouldn't pass up on what there is:
+
+- Enter the small study at the end of the corridor to pick up some red orbs (I forget how many; 30, I think)  
+- Slash the table on the ground floor in the library for 20 red orbs  
+- Jump on top of the fountain in the fountain room for 40 red orbs (I find that doing a running jump from the door works best.)  
+
+As for Maris, they can be found over the place - in the corridor, in the fountain room, in the corridor with the Melancholy Soul recharger. Finding enough Maris to combo isn't a problem. Although 7:00 is a generous time limit, it isn't infinite, so keep an eye on the time. As in Mission 1, you will be wanting to get stylish combo ratings in order to get more than peanuts for red orbs. I wouldn't use your newly-acquired DT with Alastor, as that will kill the Maris *way* too quickly.
+
+The second (and easier) way has you ignoring the Maris entirely. Instead, make your way through the mission as *fast* as possible. Collect Alastor, skip the cutscene, collect the rusty key and shotgun from the library, go down to the fountain room and exit via the balcony door. In the Melancholy Souls recharger area, get rid of the Maris. (Walking forwards, blasting non-stop with the shotgun, makes short work of them - or, if you head directly for the statue, you should be able to slash back the tablet without interference.) Go through the secret passage into the library and defeat the three Sin Scissors. As in DMD mode, try to defeat the first and nearest Sin with a critical hit, then take out the remaining two. If safety is your primary concern, keep blasting and stunning them with the shotgun.
+
+Do *not* end the mission at this point if you haven't orb-farmed the Maris. Instead, use your 3 runes of DT to race back down to the small study at the end of the corridor. Enter and exit. If a Sin Scissors doesn't emerge from the painting, enter and exit again until it does. Kill it with a critical hit. Run up the corridor, just past the fountain room door. Another Sin Scissors will emerge from a painting on the right. Kill that one, too.
+
+From now on, you will get Sin Scissors spawning for a *long* time. Try to kill every single Sin with a critical hit, using either E&I; or the shotgun. You get a little over 40 red orbs for a critical hit, as opposed to 20 red orbs for any other type of kill, so it's definitely worth it. If you don't know how to critical hit a Sin Scissors, refer to the Sin Scissors section in the Beastiary. I don't want to repeat myself by explaining it here, too >_>
+
+Before using the Staff of Judgement to end the mission, you should equip the shotgun and taunt the *cute* Phantom Babies for DT :p
+
+---
+
+### Mission 3 – Destroyer Of Ardor
+
+| Time  | Red Orbs |
+| -----: | --------: |
+| 3:00  | 550      |
+
+Dante has fallen on tough times. Even in a maxed game, the 3:00 time
+limit is narrower than an amoeba's arse. If this is a fresh game, buy
+Stinger 1 and 2, Air Hike, and 1-2 purple orbs (as many as you can
+afford): as long as you've SBed the first two missions and haven't
+bought anything else so far, you will definitely be able to afford this
+much.
+
+At the beginning, cancel the cutscene and don't waste time with
+running up to the altar to trigger the Pride of Lion's beam. Instead,
+run/Stinger to the exit and cancel the second cutscene which comes up.
+Exit. Out on the walkway, the fastest way to travel along it is by
+non-stop Vortex 2. If this is a fresh game, use Stinger 2 to travel
+along it instead. If you've never used Stinger 2 as a means of travel
+before, it may take a bit of practice, but this mission is the perfect
+place to start. There is a tiny lag after each Stinger; the moment Dante
+ recovers, Stinger again - when you get the hang of it, you will be able
+ to seamlessly string multiple Stingers together. The hardest part here
+is keeping in a straight line - it's not really the end of the world if
+you veer off to the side, however, as the walls will stop you from going
+ too off-course. It also becomes easier to maintain a straight line with
+ practice.
+
+An alternative for at least part of the way is to wall-jump up to the
+ top of the arch and Stinger off it - you will do a flying leap onto the
+ centre of the walkway: from there, you are in the ideal position to
+Stinger along in a dead straight line to the tablet. This method doesn't
+ actually save any time, though. Time-wise, I have tested it: it's about
+ two seconds faster to reach the tablet if you Stinger continuously from
+ the door than it is if you do the flying leap from the arch. Unless you
+ are *really* bad at Stingering, I advise not jumping to the top of
+ the arch. There's a hidden red orb cache there worth 50 red obs, but
+you don't need it.
+
+At the tablet, use Triangle to skip the text as fast as possible, then Stinger or Vortex back down the pathway - *don't* stop to collect any of the red orbs at the end of the walkway. Partly
+because it wastes time and partly because - if you don't pick them up -
+they will turn into large red orbs, worth 100 red orbs each, later on in
+ the game. When Dante gets struck by lightning and enters the watery
+netherworld, DT to minimize damage from the water - being in DT mode
+reduces the rate of damage from the water to half its normal speed.
+Stinger or run to the psychedelic disc, then de-DT, because you will
+need to earn back enough DT from the Sargassoes for the Phantom fight
+ahead.
+
+There is a 25 second "Do or Die" countdown for the Sargassoes - aim
+to kill them with 18-20 seconds on the timer remaining. On DMD mode, one
+ shotgun shot will kill a Sargasso - and if you get two converging on
+you simultaneously, a single shot will them both. An easy and quick
+method is to simply walk around the circumference of the psychedelic
+disc, taking out each Sargasso with a single shot as you walk around.
+Another way is to get 3 pairs of Sargassoes to converge upon you and
+take them out with a total of 3 shotgun shots. This method looks as cool
+ as a cat, but is harder to do, given that you must go to exactly the
+right spots for getting two Sargassoes to converge upon you
+simultaneously. If this is a maxed game and you have the grenade gun
+equipped, then just roll and backflip around the circle to take out 2-3
+Sargassoes at a time. It's actually possible to take out all 6
+Sargassoes with a *single* grenade >_>. You need to get them
+all bunched up together, and then fire. As hugely satisfying as this is
+to do, it's very difficult to pull off consistently (1-2 Sargassoes
+usually survive) and their icy breath makes it more risky, too.
+
+Before exiting the watery underworld, make sure to pick up any red
+orbs you may have missed - you will need these to guarantee meeting the
+red orb requirement, unless you picked up the hidden red orb cache on
+the arch. Use the portal, Stinger to the cathedral door, enter, endure
+the unskippable cutscene of the Pride of Lion falling, Stinger up the
+altar and pick it up...
+
+
+
+Boss battle - **PHANTOM 1**  
+
+Say hello to your new Arachnid friend :p
+
+For completion's sake, I will list Phantom's attacks although you won't actually *need* to know them: not for this battle and this strategy.
+
+
+Phantom's moves
+
+**Fireballs** - These are charged and fired from the mouth. Easy to hear and see coming. Roll/jump to the side at the *peak* of the charging up sound to evade. Better still, interrupt it with a
+nice Stinger or High Time to Phantom's face if you are close enough. You
+ can also deflect the fireballs back to Phantom with a sword slash, but
+it does require very good timing. Be warned: on DMD mode, Phantom will *occasionally* fire two fireballs in a row, one after the other. If you are Stingering
+ his face, the second fireball will probably catch you out. There's not
+much you can do about this, except that hope Phantom doesn't do it :-/.
+If it really worries you, then doing a rising High Time for the first
+fireball *should* lift you above the second one.
+
+**Lava Pillars** - Three pairs of lava pillars track Dante's last
+position. Phantom dips his head into the ground to summon them, rear end
+ bobbing upwards. Walk or run in any direction *except* back on
+yourself to evade them - moving around in a circle works well. You can
+interrupt this attack with a Stinger to the head as soon as you spot
+Phantom dipping his head into the ground.
+
+**Jumping Attack** - Phantom crouches, puts his claws in front of
+his face, and then does a huge leap through the air. Easy to see coming.
+ As long as you are airbourne, Phantom usually can't hit you with this
+attack - run and then jump to evade him as he descends.
+
+**Double/Single Claw Swipe** - If you get too close to Phantom's
+face, he will respond with either a fast single-claw swipe or a much
+slower swipe with both claws. The single swipe is triggered by
+approaching Phantom's face from the side; the double swipe is triggered
+by approaching Phantom's face head-on. For the single swipe, just jump
+backwards to evade. For the double swipe, you can jump in any direction
+to evade - you can even jump *forwards* onto Phantom's back.
+
+**Tail Sweep** - Phantom's tail sweeps the ground in front or to
+the side of him. Inaccurate targeting. Most of the time it will miss
+you, especially if you are on the move.
+
+**Burnt-out Phantom** - Every so often, Phantom will "burn out",
+after firing too many fireballs or after taking heavy damage in a short
+space of time. His fires disappear and he looks grey and ash-like. *All* of his body is vulnerable to attack during this period. (It lasts for
+about 3 seconds in total, so you don't get very long to hack away at his
+ legs.) Burnt-out Phantom will always resuscitate back to life by
+charging up a fireball.
+
+**Red Phantom** - In the last 25% of his life, Phantom will
+gradually turn redder and redder until he looks seriously fit to burst.
+He gains a speed boost during this period. Just be careful of Phantom's
+faster claw swipes! But otherwise, nothing else particularly changes.
+
+
+Battle
+
+Full credit for the following strategy goes to Patient Vlakorados. What do you think I am? *Good* at this game? :p
+
+Theory:
+
+The theory is actually pretty straightforward. Phantom is susceptible
+ to a critical hit at either the base of his tail (in scorpion form) or
+at the thickest part of his bulb (in spider form). When you get a
+critical hit, Phantom will 'flinch', that is, do a roar and rear up in
+pain - after he has recovered from the flinch, he will then scuttle
+away. The following strategy revolves around trapping Phantom in a
+corner by making him flinch and scuttle away from you towards the left
+corner of the cathedral. This is done by getting an Air-Hiked slash on
+Phantom's rear end at the very start: this will make him scuttle towards
+ the altar. Subsequent slashes will make him scuttle sideways (as he can
+ no longer go forwards) into the corner - from there, he is trapped for
+the remainder of the battle.
+
+Step-by-step strategy:
+
+- Skip the cutscene. Dante will always begin the battle by flipping over in mid-air. *As* he flips, DT, quickly do a *hop*-jumped
+ Air Hike in a north-easterly direction (i.e., slightly forwards and to
+the right) and then slash downwards, holding the analogue stick
+backwards as you do so. (This will help to kill the momentum of Dante's
+jump even further - and if you have Vortex, it will also prevent you
+from accidently doing a Vortex.) I cannot stress how much you have to *HOP*-jump
+ this first jump - otherwise you will go too far forwards or to the
+right and miss Phantom altogether. It's vital you get this first slash
+in, so practice, practice, practice - for however long it takes - until
+you can get it regularly.
+
+- The first hit will make Phantom flinch - and then scuttle towards
+the altar. As he's scuttling, go for a second hit on his rear end. Jump
+up, Air Hike, then slash down. You can jump straight up and Air Hike *forwards*, or you can do a jump *forwards* and Air Hike straight up - it's up to you how you propel yourself
+upwards and forwards, just so long as you succeed in hitting Phantom's
+arse on the way down. The second hit *won't* make Phantom flinch.
+
+- After the second hit, Phantom will carry on towards the altar as
+though nothing had happened. Once again, jump and Air Hike
+upwards/forwards and land a downwards slash - this, the 3rd hit of
+battle, *will* make Phantom flinch. By this time Phantom will be at
+ the altar and won't be able to go any further forwards - as he's
+flinching, Air Hike straight up to get the 4th hit, which won't make
+Phantom flinch (are you getting the pattern yet?). As Phantom is
+invulnerable while he's flinching, careful not to hit him too soon, as
+otherwise your hit will clang uselessly.
+
+- After the 4th hit, Phantom will scuttle leftwards into the corner and there is *typically* a horrible camera angle change, which you will have to shrug off as
+best you can. It's not always after the 4th hit - depending on how you
+fight Phantom, it could be after the 6th or 2nd hit (if it's after the
+2nd hit, though, you're doing something wrong and you should try to
+adjust your tactics) - but it usually is. At any rate, you know what to
+do >_>. That's right :p - do another DTed Air Hiked slash on
+Phantom's rear end, landing the 5th hit of battle.
+
+- By now about half of Phantom's life should be gone. Normally he
+will be in the corner by this time, unable to move forwards or sideways.
+ (Although occasionally he does remain at the altar for the entire
+battle - it's usually easier when he does so, too.) Continue to plug
+away at him with DTed Air Hiked slashes until he is defeated. The camera
+ is frequently your worst enemy here, but contend with it as best you
+can, ignoring invisible pillars and the like. In an ideal scenario, DMD
+Phantom will go down in exactly 10 hits - but if you didn't get the
+maximum damage from every slash, it will be more like 11-13 hits.
+Besides the camera, another thing to watch out for is Phantom's "burnt
+out" phase, which he will *always* enter before the battle is over -
+ on its own, it wouldn't matter, but Phantom always swivels around
+slightly as he charges up a fireball. This can make those last 1-2 hits
+very tricky to get indeed. Watch which direction Phantom swivels in,
+and jump in that direction accordingly.
+
+
+Things Which Can (And Do) Go Wrong:
+
+- Sometimes a hit will clang uselessly against armour; this is a frustrating and annoying occurrence which is hard to avoid *completely*. With practice, though, you will get better at successfully connecting your hits.
+
+- Phantom can spin round at a *moment*'s notice if you dither
+too long in getting the next slash or miss a slash entirely. If this
+happens, he will spin around to face you and start charging up a
+fireball - pretty much game over, as far as your SB is concerned. Again,
+ only practice will stop this from happening.
+
+- Every so often, Phantom will spin round at the *beginning* of
+battle. Even if you did the perfect hop-jumped Air Hiked slash, there is
+ nothing you can do. It's absolutely infuriating when this happens.
+Fortunately, it doesn't happen *very* often...
+
+- This snippet of info is more of a curiosity than anything else, but it is actually possible to get a *double* critical hit against Phantom - if you get a critical hit at *just* the right moment when he is releasing a fireball (i.e., when his
+defense is lowered), you will get double damage. To arrange this by
+design is probably impossible, but I did see it once in a video by
+sternn, which no longer exists as far as I know.
+
+
+Miscellaneous:
+
+The CH strategy is rather to visualise, so I recommend going to the
+Links section and downloading a video of it in operation. It should help
+ you a *lot* in learning it. For other ways of damaging Phantom, go to the Phantom 2 section.
+
+***Why develop such a precise strategy to begin with?***
+
+Time. No other strategy kills Phantom fast enough to get the SB on
+DMD Mission 3. Even with this ultra-fast one, you're pushing it.
+
+***Okay, I've finally killed Phantom with this bloody strategy, I'm off, see you...***
+
+Not yet, you're not. There's still a secret mission to complete ^ :p
+
+***Oh crap***.
+
+Yeah :p
+
+
+Finishing the mission:
+
+After the fight is over, collect the 500 red orbs and make your way like *hell* for leather down the walkway. *DON'T* jump into the water just yet. If you do, you'll emerge from the portal
+on the side of the bridge furthest away from the castle and you don't
+want that. Instead, go across the broken bridge using Stingers and/or
+Air Hikes - the easiest pathway is to Stinger off from the left hand
+side of the bridge (left from Dante's viewpoint, too). It'll only take
+three Stingers to get to the other side. (I would practice it first
+before attempting it for real, however!) Once on the other side, jump
+down ASAP to trigger the Secret Mission.
+
+I've given detailed notes on how to achieve a critical hit in the [Sin Scissors](#S.Scissors) section of the Beastiary. Hopefully by now you are comfortable with
+getting CHs against Sin Scissors, since this isn't something you want to
+ fluff up any more than you *absolutely* have to :-/ ... In the water, DT to conserve health, and run to the psychedelic disc - no, there isn't *any*thing
+ you can do to hurry the descent of the Sin. Just wait for it to
+descend, de-DT, wait until it holds out its scissors, and... ????.
+Profit?!
+
+After your successful CH, pick up the blue orb piece and make your
+way back towards the cathedral as fast as humanly possible. End mission
+and hold breath... >_>
+
+
+
+Normal Mode  
+
+For some odd reason, damage from the water *doesn't* count
+towards your damage rank in Normal mode, which means you don't have to
+do the Secret Mission to get 200 ranking points to compensate for your
+lost ranking points for damage. If you decide to do the Secret Mission
+regardless, then you get an extra 30 seconds added on to your total
+mission time, to make it 3:30. (Note that for Hard mode, completion of
+the Secret Mission is compulsory, however.)
+
+Master the DMD strategy and you'll be laughing your way to the Mission Clear screen. It'll take *two* non-DTed shotgun shots to kill a Sargasso, but I'm sure you can cope
+with that. As for Phantom, it will take 4-5 critical hits to kill him.
+(The same applies to Hard Phantom, too.) If you have any thoughts of
+doing a DMD SB game, then I would really start learning the CH strategy
+now - you'll be at a big advantage for when you do finally arrive at DMD
+ Mission 3. (I did it the difficult way. I SBed Normal mode a couple of
+times without bothering to learn the CH strategy for Phantom - and *boy* did I ever feel the pain when I began a DMD SB game.)
+
+If you can't or don't want to learn the CH strategy, then normal DTed
+ Air Hiked slashes to Phantom's face, back and rear end should suffice,
+particularly if you skip the Secret Mission. The Stinger 2 loop will
+work, too - refer to the DMD Mission 8 walkthrough for that, as I don't
+feel like repeating myself, really.
+
+The Secret Mission is the same as in DMD mode.
