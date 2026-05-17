@@ -76,6 +76,44 @@ The only bosses that gain additional red orbs from the Stylish meter upon defeat
 
 TBA
 
+## Green Orb Drop Mechanics
+
+There are two counters related to green orb drops. There is a spawn counter and a type counter. When you start a new game or load a save, the spawn counter is set to 20 and the type counter is set to 0.
+
+When you kill enemies, the spawn counter goes down by an amount depending on the enemy. 
+
+| Enemy | Counter Drop | 
+| --- | ---: | 
+| Marionettes | 3 |
+| Fetishes | 6 |
+| Sin Scissors | 4 |
+| Sin Scythe | 5 |
+| Death Scissors | 10 |
+| Death Scythe | 10 |
+| Shadow | 10 |
+| Frost | 10 |
+| Sargasso | 1 |
+| Small Beelzebub | 1 |
+| Large Beelzebub | 3 |
+| Blade | 4 |
+| Plasma | 7 |
+| Nobody | 8 |
+| Phantom | 40 |
+| Kyklops | 40 |
+| Griffon | 40 |
+| Nightmare | 40 |
+| Nelo Angelo | 30 | 
+
+Blades and Frosts have this value doubled when they are DT'd. So a DT'd Frost will lower the spawn counter by 20, and a DT'd blade will lower the spawn counter by 8.
+
+After you kill an enemy and the game subtracts the value from the spawn counter, the game checks if the spawn counter is 0 or less. If it is, then it checks if Dante is at max HP. If he is not, then the game spawns a green orb. The game checks the type counter. If it is 6 or greater, then the green orb is a large green orb. When the game spawns a green orb, the spawn counter is reset to a value from 20 to 22 randomly. If the green orb is a large green orb, then the type counter is set to 0.
+
+The type counter goes up by 1 every time you kill an enemy when the spawn counter is at 0 or lower. This increase happens after the check for the green orb spawn. If you are at max HP, it will still go up even though a green orb spawn didn't occur, so you can increase this rapidly by killing enemies at max HP. If you do spawn a green orb, regardless of the type, the type counter goes up by 2 instead. This occurs after if the type counter is supposed to reset.
+
+The small green orb restores 250 HP. The large green orb restores 50% HP.
+
+In additional to these, Death Scissors and Shadow always drop 1 large green orb, and Death Scythes drop 2 green orbs, independent of this green orb drop. So in total, the Death Scissors and Shadow can drop up to 2 green orbs, and the Death Scythe can drop up to 3 green orbs. 
+
 # Mission End Ranking
 
 There are five categories that affect the ranking given at the end of each mission:
@@ -239,9 +277,9 @@ TBA
 
 TBA
 
-## Nightmare-$\beta$
+## Nightmare-\(\beta\)
 
-When the Nightmare-$\beta$ is equipped, Dante's punch attacks with his left arm are doubled. This does not stack with Devil Trigger, unless it is activated when the attack hits.
+When the Nightmare-\(\beta\) is equipped, Dante's punch attacks with his left arm are doubled. This does not stack with Devil Trigger, unless it is activated when the attack hits.
 
 # Devil Arms List
 
@@ -278,6 +316,10 @@ Sparda does twice as much damage as Alastor, effectively being the same damage a
 In Mission 22, Sparda's attack range becomes 4x when in Devil Trigger.
 
 # Some Enemy Mechanics
+
+## Sin Scissors, Sin Scythe, Death Scissors Death DT Refill
+
+When these enemies die, the game keeps track of their height when they died. The height slowly decreases. When the height is lower than Dante's height, these enemies are considered fully dead. This is when events such as cutscenes trigger and the DT restoration after death.
 
 ## Death Scissor
 
@@ -319,6 +361,27 @@ When the Shadow starts its horizontal spike attack, it sets a counter to 0. By j
 1. 290 on PS2 versions outside of Japan.
 2. 5450 on the 2018 HD versions.
 
+## Frost
+
+### Armor
+
+Frosts have armor. This armor doubles their defense and they are resilient to stuns. Three attacks from the following while the Frost is in a neutral state will break their armor:
+
+ - Alastor
+    - Helm Breaker
+    - Vortex
+ - Ifrit
+    - Any kick
+    - Fully charged punch
+  
+### Arm
+
+Frosts lose an arm at 500 HP. This stops the Frost from using some attacks (Check which ones). The needles from 8 directional needle attack is also halved. 
+
+### Freeze
+
+Frosts can freeze at 400 HP or less. If the freeze is not interrupted, it will restore 500 HP and its arm. 
+
 ## Nelo Angelo 
 
 ### Nelo Angelo 1 Teleportation
@@ -344,6 +407,12 @@ When Griffon is hit by a Devil Arm attack, excluding Air Raid, Vortex, and Round
 The threshold is 30 for Griffon 1 and 20 for Griffon 3. Griffon 2 cannot be knocked down.
 
 1. The counter also increases by 1 sometimes if he is hit in the air by a firearm. I believe that it has to hit his head hitbox for it to count.
+
+### Griffon 2 Clone Mechanics
+
+The clone that Griffon 2 sends at you has 15 HP. The damage you do to the clone depends on the last hit you do to Griffon. If the last hit to Griffon is an uncharged handgun, then each attack to the clone does 1 damage. If the last hit to Griffon is any other firearm attack, including charged handgun, then each attack to the clone does 2 damage. If the last hit to Griffon is any other attack, then the each attack to the clone does 8 damage. Letting the clone hit Dante reduces its HP by 2, but it will not kill the clone. Letting the clone take Dante up does not affect the HP. Note that the clone like every other enemy dies at negative HP, not 0 HP. 
+
+On the PS2 versions, the initial value for damage to the clone is set to 8 damage per hit. On all HD versions, the initial value is set to 1 damage per hit. 
 
 ### Griffon 3 Defense
 
