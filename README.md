@@ -2,6 +2,19 @@
   Devil May Cry 1 Mechanics
 </title>
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: {'[+]': [['$', '$']]}
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-svg.js"></script>
+
+
 # Health
 Dante starts with 1000 HP. Each whole blue orb adds 100 HP. The maximum HP attainable is 3000.
 
