@@ -289,7 +289,7 @@ TBA
 
 TBA
 
-## Nightmare- $\beta$
+## Nightmare-$\beta$
 
 When the Nightmare-\(\beta\) is equipped, Dante's punch attacks with his left arm are doubled. This does not stack with Devil Trigger, unless it is activated when the attack hits.
 
