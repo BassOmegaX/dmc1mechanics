@@ -426,6 +426,8 @@ The clone that Griffon 2 sends at you has 15 HP. The damage you do to the clone 
 
 On the PS2 versions, the initial value for damage to the clone is set to 8 damage per hit. On all HD versions, the initial value is set to 1 damage per hit. 
 
+Griffon 2 cannot send another clone if one is out. There is also a cooldown of 5 seconds after the clone has died where Griffon 2 cannot send out a clone either.
+
 ### Griffon 3 Defense
 
 Griffon 3 begins with 10000 HP. When he reaches 1500 HP, his defense doubles and he takes half damage from all attacks. Note that this phase change cannot occur while Griffon is knocked down.
