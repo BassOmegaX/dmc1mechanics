@@ -2,8 +2,6 @@
   Devil May Cry 1 Mechanics
 </title>
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
-
 # Health
 Dante starts with 1000 HP. Each whole blue orb adds 100 HP. The maximum HP attainable is 3000.
 
@@ -278,7 +276,7 @@ TBA
 
 TBA
 
-## Nightmare-\(\beta\)
+## Nightmare- $\beta$
 
 When the Nightmare-\(\beta\) is equipped, Dante's punch attacks with his left arm are doubled. This does not stack with Devil Trigger, unless it is activated when the attack hits.
 
